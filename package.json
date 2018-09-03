@@ -1,0 +1,20 @@
+{
+    "name": "eslint-config-kiat",
+    "version": "1.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Hongarc/eslint-config-kiat.git"
+    },
+    "description": "KiaT project config eslint",
+    "author": "Hongarc <anhhong12121997t@gmail.com>",
+    "license": "MIT",
+    "main": "config.js",
+    "keywords": [
+        "eslint",
+        "eslintconfig",
+        "kiat"
+    ],
+    "files": [
+        "config.js"
+    ]
+}
