@@ -1,5 +1,7 @@
 # eslint-config-kiat
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Hongarc/eslint-config-kiat.svg)](https://greenkeeper.io/)
+
 This is config for eslint of KiaT project
 
 ## Install
